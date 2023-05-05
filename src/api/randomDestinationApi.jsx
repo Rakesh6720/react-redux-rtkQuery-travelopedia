@@ -14,4 +14,4 @@ export const randomDestinationApi = createApi({
   }),
 });
 
-export const { getRandomDestination } = randomDestinationApi;
+export const { useGetRandomDestinationQuery } = randomDestinationApi;
