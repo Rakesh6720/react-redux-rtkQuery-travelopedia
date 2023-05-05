@@ -1,0 +1,16 @@
+{
+  "destination": [
+    {
+      "id": 2,
+      "city": "Paris",
+      "country": "France",
+      "daysNeeded": 5
+    },
+    {
+      "id": 86.45166593822977,
+      "city": "New York",
+      "country": "USA",
+      "daysNeeded": 9
+    }
+  ]
+}
